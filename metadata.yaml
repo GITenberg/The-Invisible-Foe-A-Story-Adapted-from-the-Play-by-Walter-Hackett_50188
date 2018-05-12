@@ -1,4 +1,8 @@
 _repo: The-Invisible-Foe-A-Story-Adapted-from-the-Play-by-Walter-Hackett_50188
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50188-h/images/cover.jpg
 creator:
   author:
     agent_name: Miln, Louise Jordan
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44626'
     url: http://www.gutenberg.org/2009/agents/44626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50188#The-Invisible-Foe-A-Story-Adapted-from-the-Play-by-Walter-Hackett
 gutenberg_issued: '2015-10-12'
 gutenberg_type: Text
 identifiers:
